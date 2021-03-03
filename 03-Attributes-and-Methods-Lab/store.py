@@ -34,4 +34,3 @@ class Store:
             return f"Cannot remove {amount} {item}"
         self.items[item] -= amount
         return f"{amount} {item} removed from the store"
-
