@@ -33,4 +33,3 @@ class Library:
                 return f"Please check again the provided username - it should be different than the username used so far!"
         else:
             return f"There is no user with id = {user_id}!"
-
